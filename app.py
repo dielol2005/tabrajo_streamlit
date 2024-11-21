@@ -63,4 +63,3 @@ if not data.empty:
     )
 else:
     st.write("No se encontraron datos para mostrar.")
-streamlit run app.py
